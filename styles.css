@@ -86,4 +86,17 @@ body {
   border: none;
   width: 290px;
   font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-section button:hover {
+  color: hsl(75, 94%, 57%);
+  text-shadow: 0px 0px 1px white,
+  0px 0px 1px white;
+}
+
+
+.btn-section button:active {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
 }
