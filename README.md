@@ -68,7 +68,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.github.com/sir-josh01)
+- Website - [github-profile](https://www.github.com/sir-josh01)
 - Frontend Mentor - [@Sir_josh01](https://www.frontendmentor.io/profile/Sir_josh01)
 - Twitter - [@Sir_josh01](https://www.twitter.com/sir_josh01)
 
