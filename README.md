@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL: (https://https://github.com/Sir-josh01/social-links-profile)
+- Live Site URL:(https://sir-josh01.github.io/social-links-profile/)
 
 ## My process
 
@@ -68,8 +68,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@josh35823482](https://www.frontendmentor.io/profile/josh35823482)
+- Website - [Add your name here](https://www.github.com/sir-josh01)
+- Frontend Mentor - [@Sir_josh01](https://www.frontendmentor.io/profile/Sir_josh01)
 - Twitter - [@Sir_josh01](https://www.twitter.com/sir_josh01)
 
 ## Acknowledgments
